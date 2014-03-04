@@ -2,5 +2,6 @@ PGodinho.github.io
 ==================
 
 
-My personal projects:
-Conferência Vida Ativa - 2013 (Professional Training Final Project)
+##My projects:
+
+* Professional Training Final Project @ Citeforma.Lx - [Website Conferência Vida Ativa - 2013](http://pgodinho.github.io/Conferencia_Site/) 
