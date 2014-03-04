@@ -1,5 +1,6 @@
 PGodinho.github.io
 ==================
 
-Greetings...
-This is my personal page.
+
+My personal projects:
+Conferência Vida Ativa - 2013 (Professional Training Final Project)
