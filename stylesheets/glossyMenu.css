@@ -1,7 +1,7 @@
 .glossymenu {
   margin: 0 auto;
   padding: 0 0 0 34px;
-  background: transparent url(images/menur_bg.gif) repeat-x scroll 0% 50%;
+  background: transparent url(../images/menu_background.gif) repeat-x scroll center;
   position: relative;
   height: 46px;
   list-style-type: none;
@@ -10,8 +10,9 @@
 }
 .glossymenu li {
   float: left;
-  background-image: url(images/menur_bg.gif);
+  background-image: url(../images/menu_background.gif);
   background-repeat: repeat-x;
+  background-position:  center center;
 }
 .glossymenu li a {
   padding: 0 0 0 16px;
@@ -26,17 +27,21 @@
   line-height: 46px;
   text-align: center;
   cursor: pointer;
+  background-repeat: repeat-x;
+  background-position:  center center;
 }
 .glossymenu li a b {
   padding: 0 24px 0 8px;
   float: left;
   display: block;
+  background-repeat: repeat-x;
+  background-position:  center center;
 }
 .glossymenu li.current a, .glossymenu li a:hover {
-  background: transparent url(images/menur_hover_left.gif) no-repeat scroll left center;
+  background: transparent url(../images/menu_list_bg.gif) no-repeat scroll left center;
   color: #63a52a;
 }
 .glossymenu li.current a b, .glossymenu li a:hover b {
-  background: transparent url(images/menur_hover_right.gif) no-repeat scroll right top;
+  background: transparent url(../images/menu_list_bg.gif) no-repeat scroll right center;
   color: #63a52a;
 }
